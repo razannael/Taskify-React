@@ -31,4 +31,4 @@ Once the development server is running, you can start using Taskify:
 
 ## Taskify Preview
 
-![Taskify Preview](https://github.com/razannael/Tasify/assets/127951072/e25692c2-4d7c-41aa-a285-bdb53cd3cedb)
+![Taskify Preview](https://github.com/razannael/Taskify-React/assets/127951072/83db4a50-7b85-442b-b6fa-e892520a3c2d)
